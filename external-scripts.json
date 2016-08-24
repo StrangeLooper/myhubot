@@ -10,5 +10,9 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-urban"
+  "hubot-urban",
+  "hubot-ascii-art",
+  "hubot-coin",
+  "hubot-movie",
+  "hubot-response-applause"
 ]
