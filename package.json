@@ -1,6 +1,6 @@
 {
   "name": "myhubot",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "author": "Jameson.Mortimer@gmail.com",
   "description": "A simple helpful robot for your Company",
@@ -30,6 +30,6 @@
     "soupselect": "^0.2.0"
   },
   "engines": {
-    "node": "8.4.1"
+    "node": "8.1.4"
   }
 }
