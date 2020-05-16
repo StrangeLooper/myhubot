@@ -14,5 +14,6 @@
   "hubot-ascii-art",
   "hubot-coin",
   "hubot-movie",
-  "hubot-response"
+  "hubot-response",
+  "hubot-urban-dict"
 ]
