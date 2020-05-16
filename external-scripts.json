@@ -1,19 +1,19 @@
 [
+  "hubot-ascii-art",
+  "hubot-calculator"
+  "hubot-coin",
   "hubot-diagnostics",
+  "hubot-google-images",
   "hubot-help",
   "hubot-heroku-keepalive",
-  "hubot-google-images",
-  "hubot-google-translate",
   "hubot-insults",
-  "hubot-pugme",
   "hubot-maps",
+  "hubot-movie",
+  "hubot-pugme",
   "hubot-redis-brain",
+  "hubot-response",
   "hubot-rules",
   "hubot-shipit",
   "hubot-urban",
-  "hubot-ascii-art",
-  "hubot-coin",
-  "hubot-movie",
-  "hubot-response",
-  "hubot-urban-dict"
+  "hubot-urban-dict",
 ]
